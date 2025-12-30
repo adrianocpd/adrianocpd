@@ -9,6 +9,7 @@ Estudante de programação iniciante.
 
 
 [![Adriano stats](https://github-readme-stats.vercel.app/api?username=Adrianocpd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocpd)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
