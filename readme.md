@@ -8,8 +8,8 @@ Estudante de programação iniciante.
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='logo-node' />
 
 
-![Adriano stats](https://github-readme-stats.vercel.app/api?username=Adrianocpd)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocpd)
+![Adriano stats](https://github-readme-stats.vercel.app/api?username=adrianocpd&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocpd&layout=compact&theme=dark)
 
 
